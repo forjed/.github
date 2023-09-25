@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to forjed</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A org from Canada</h3>
 
 - 🔭 We currently working on **Resulti, Clickette, PP, Logota**
 
