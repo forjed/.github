@@ -5,8 +5,9 @@
 
 - 🤝 IWe looking for help with **Donation**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
+  contact@resulti.net (we are always happy to help you with question and comment)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
