@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, Welcome to forjed</h1>
+<h1 align="center">Hi 👋, Welcome to Forjed</h1>
 <h3 align="center">A org from Canada</h3>
+<h4 align="center">Based in Quebec, The little city of St-Therese was the born place of Forjed!</h4>
 
 - 🎦 Our service are **Resulti, Clickette, PP (By Resulti), Logota, DaStart (Coming soon), Encrepteh (Coming soon)**
 <br>
