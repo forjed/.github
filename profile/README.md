@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, Welcome to forjed</h1>
 <h3 align="center">A org from Canada</h3>
 
-- 🔭 We currently working on **Resulti, Clickette, PP, Logota, DaStart (Coming soon), Encrepteh (Coming soon)**
+- 🎦 Our service are **Resulti, Clickette, PP (By Resulti), Logota, DaStart (Coming soon), Encrepteh (Coming soon)**
 
-- 🤝 IWe looking for help with **Donation**
+- 🔭 We currently working on **DaStart (Coming soon), Encrepteh (Coming soon)**
+
+- 🤝 We looking for help with **Donation**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
