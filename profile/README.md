@@ -2,12 +2,12 @@
 <h3 align="center">A org from Canada</h3>
 
 - 🎦 Our service are **Resulti, Clickette, PP (By Resulti), Logota, DaStart (Coming soon), Encrepteh (Coming soon)**
-:D
+*:D*
 - 🏢 Org we own are **PrizVideo**
 - 🎦 Service: **PrizVideo**
-O.o
-- 🔭 We currently working on **DaStart (Coming soon), Encrepteh (Coming soon)**
-XD
+*O.o*
+- 🔭 We currently working on **DaStart (Coming soon), Encrepteh (Coming soon)***
+*XD*
 - 🤝 We looking for help with **Donation**
 
 <h3 align="left">Connect with us:</h3>
