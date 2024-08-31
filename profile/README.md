@@ -4,15 +4,6 @@
 
 - 🎦 Our service are **Resulti, Forjed Cloud, Clysulti, Siiky**
 <br>
-<p>*:D*</p>
-<br>
-
-<br>
-<p>*O.o*</p>
-<br>
-
-<p>*XD*</p>
-<br>
 
 - 🤝 We looking for help with **Donation**
 
