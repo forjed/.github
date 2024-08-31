@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋, Welcome to Forjed</h1>
 <h3 align="center">A org from Canada</h3>
-<h4 align="center">Based in Quebec, The little city of St-Therese was the born place of Forjed!</h4>
+<h4 align="center">Based in Quebec, Forjed is proudly respecting your privacy!</h4>
 
-- 🎦 Our service are **Resulti, Clickette, PP (By Resulti), Logota, DaStart (Coming soon), Encrepteh (Coming soon)**
+- 🎦 Our service are **Resulti, Forjed Cloud, Clysulti, Siiky**
 <br>
 <p>*:D*</p>
 <br>
-
-- 🏢 Org we own are **PrizVideo**
-- 🎦 Service: **PrizVideo**
 
 <br>
 <p>*O.o*</p>
 <br>
 
-- 🔭 We currently working on **DaStart (Coming soon), Encrepteh (Coming soon)***
-
-<br>
 <p>*XD*</p>
 <br>
 
@@ -24,7 +18,7 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-  contact@resulti.net (we are always happy to help you with question and comment)
+  contact@resulti.org (we are always happy to help you with question and comment)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
