@@ -2,7 +2,7 @@
 <h3 align="center">A org from Canada</h3>
 <h4 align="center">Based in Quebec, Forjed is proudly respecting your privacy!</h4>
 
-- 🎦 Our service are **Resulti, Forjed Cloud, Clysulti, Siiky**
+- 🎦 Our service are **Resulti, Forjed Cloud, Clysulti**
 <br>
 
 - 🤝 We looking for help with **Donation**
